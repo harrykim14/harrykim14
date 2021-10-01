@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I’ve been studied web programming from 2020. The first language I learned was Java & the first framework was Spring Framework.
-- Now I'm very interesting at Front-end tech, 
+- I’ve been studied web programming since Feb, 2020. The first language I learned was Java & the first framework was Spring Framework.
+- Now I'm very interesting at Front-end tech, passionately immersed in Javascript environment.
 - 🌱 I’m currently learning ... Typescript, Vue and Rust
 
 [![HarryKim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrykim14&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
