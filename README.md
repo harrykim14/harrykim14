@@ -1,12 +1,19 @@
 ### Hi there 👋
 
+- I’ve been studied web programming from 2020. The first language I learned was Java & the first framework was Spring Framework.
+- Now I'm very interesting at Front-end tech, 
+- 🌱 I’m currently learning ... Typescript, Vue and Rust
+
+[![HarryKim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrykim14&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrykim14&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **harrykim14/harrykim14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
